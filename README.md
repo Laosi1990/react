@@ -3,10 +3,6 @@ react 学习文档
 
 ## 测试
 
-dev ceshi 
-
-xCDCFDFDSFDSCDS
-
 
 2222
 
@@ -33,4 +29,3 @@ wwww
 wwwwwww
 
 222233333
-
